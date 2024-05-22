@@ -1,0 +1,2 @@
+# Llama Training Notebooks for Text-to-SQL
+This repository contains Jupyter notebooks dedicated to training Small Language Models (SLMs) for transforming natural language queries into SQL commands, specifically within the healthcare domain. These notebooks provide the necessary tools and scripts to fine-tune models to enhance the accessibility and actionability of Electronic Health Records (EHRs).
